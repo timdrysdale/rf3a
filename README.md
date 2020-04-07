@@ -8,6 +8,14 @@ Content to assist in practicing F3A in realflight
 
 My in-real-life F3A loops are too narrow - so what I am doing wrong, and what should a loop look like? To try and better understand my positioning in 3D space, I thought I'd build some F3A-shaped train-tracks to fly through in realflight. And with this repository, I thought I'd inflict this crazy idea on fellow F3A pilots too - in the hope that it is useful.
 
+# Loop track design
+
+I've competed in a couple of F3A clubman events in the UK, but the schedule is pretty consistent worldwide. [Here's our guidance](http://www.gbrcaa.org/?page_id=84).
+
+Here's the side view of the loop track. The loop to the right is the pre-sequence turnaround and out of the box (box not shown).
+
+![alt text][looptrack]
+
 ## expectation management
 this is a rush job, and not well packaged, explained, or set up for anything other than exactly my RF8 version. Do as you will with it, but I am currently unable to provide support (feel free to raise issues in case others can help). I will progress this again in due course, but work's, ahem, a bit busy.
 
@@ -50,3 +58,4 @@ Enjoy! Open PR with mods
 
  
 [f3a]: ./img/F3A.gif "Flying in the F3A frame"
+[looptrack]: ./img/looptrack.png "F3A sportsman sequence"
