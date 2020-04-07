@@ -6,7 +6,7 @@ Content to assist in practicing F3A in realflight
 
 # Background
 
-My in-real-life F3A loops are too narrow - so what I am doing wrong, and what should a loop look like? To try and better understand my positioning in 3D space, I thought I'd build some F3A-shaped train-tracks to fly through in realflight. And with this repository, I thought I'd inflict this crazy idea on fellow F3A pilots too - in the hope that it is useful.
+My in-real-life F3A loops are too narrow - so what I am doing wrong, and what should a loop look like? To try and better understand my positioning in 3D space, I thought I'd build some F3A-shaped train-tracks to fly through in realflight. And with this repository, I thought I'd inflict this crazy idea on fellow F3A pilots too - in the hope that it is useful in daignosing habits leading to off-line manoevures . Note that visual aids are expressly forbidden in competition, so this probably looks like a terrible idea to pilots that already 'get it' - but I also wanted an excuse to try 3ds max :-D.
 
 # Loop track design
 
