@@ -58,4 +58,4 @@ Enjoy! Open PR with mods
 
  
 [f3a]: ./img/F3A.gif "Flying in the F3A frame"
-[looptrack]: ./img/looptrack.png "F3A sportsman sequence"
+[looptrack]: ./img/looptrack.PNG "F3A sportsman sequence"
